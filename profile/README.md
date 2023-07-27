@@ -1,6 +1,6 @@
 # Marten
 
-![logo](https://raw.githubusercontent.com/martenframework/marten/main/docs/static/img/hero.svg)
+![logo](https://raw.githubusercontent.com/martenframework/marten/main/docs/static/img/hero.png)
 
 > The pragmatic web framework.
 
